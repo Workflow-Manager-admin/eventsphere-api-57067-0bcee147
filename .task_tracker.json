@@ -1,0 +1,5 @@
+{
+  "task_description": "{'description': 'Backend service for event management, providing APIs to manage events, attendees, and related resources.', 'containers': [{'container_name': 'event_manager_backend', 'platform': 'backend', 'framework': 'express', 'description': 'Handles all business logic and data management for the event manager platform, exposing RESTful APIs.', 'interfaces': 'RESTful APIs for event and attendee management', 'relative_path': 'event_manager_backend_workspace', 'dependencies': [], 'container_type': 'backend', 'container_details': 'Node.js backend service using Express.js framework for routing, controllers, and middleware. Connects to a database for persistent storage of events and attendees.'}], '3rd_party_services': [], 'figma_components': '', 'manifest_path': '/home/kavia/workspace/code-generation/.project_manifest.yaml'}",
+  "tasks": {},
+  "next_task_id": 1
+}
